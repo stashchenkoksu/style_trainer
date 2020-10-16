@@ -20,6 +20,8 @@ class Histogram_Generator
 
 end
 
+
+
 module App
 	Text = 'When Mr. and Mrs. Dursley woke up on the dull, gray Tuesday our story
 starts, there was nothing about the cloudy sky outside to suggest that
